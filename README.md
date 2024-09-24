@@ -1,2 +1,11 @@
-# portfolio
-This is a repo dedicated to making my own portfolio website whilst using github to host said website cuz im not paying $999 for a domain. LOL
+## Sidefolio - Portfolio website template
+
+As seen on [Aceternity UI](https://ui.aceternity.com/templtes/sidefolio)
+
+## Built with
+- Next.js
+- Tailwindcss
+- Framer motion
+- MDX
+
+Checkout all the templates at [Aceternity UI](https://ui.aceternity.com/templates)
